@@ -1,7 +1,7 @@
 import React from "react"
 import { useSignUpPageStyles } from "../styles"
 import SEO from "../components/shared/Seo"
-import { Card, CardHeader, TextField, Button, Typography} from "@material-ui/core"
+import { Card, TextField, Button, Typography} from "@material-ui/core"
 import { Link } from "react-router-dom"
 import { LoginWithFacebook } from './login'
 
