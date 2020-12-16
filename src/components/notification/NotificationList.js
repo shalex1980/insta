@@ -4,7 +4,7 @@ import { defaultNotifications } from '../../data'
 import { Link } from 'react-router-dom'
 import { Grid, Avatar, Typography } from '@material-ui/core'
 import FollowButton from '../shared/FollowButton'
-import useOutsideClick from '@rooks/use-outside-click'
+//import useOutsideClick from '@rooks/use-outside-click'
 
 function NotificationList({ handleHideList }) {
   const listContainerRef = React.useRef()
